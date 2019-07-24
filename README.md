@@ -1,4 +1,4 @@
-# 4julu.github.io
+# stephenajulu.github.io
 Hey guys,
 I developed this page out of sheer curiosity and lack of enough money to host this.
 I had already wrote the code, tried Google, WordPress, Wix, Weebly and About me website creators but none fit my desired outcome, 
